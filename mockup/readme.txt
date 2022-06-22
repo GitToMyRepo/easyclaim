@@ -1,0 +1,1 @@
+This is the mock up for the small claim application.
